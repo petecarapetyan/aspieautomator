@@ -1,0 +1,30 @@
+{% extends 'layout-default.njk' %}
+
+{% block themeBody %}
+  <header id="main-header" class="header-grid-area">
+    {% block header %}
+      {% include 'partials/header.njk' %}
+    {% endblock header%}
+  </header>
+
+  <div class="ga-content-main">
+    <p>
+      <img src="{{ '_assets/_static/images/khara-woods-OGV99Jhhvro-unsplash_.jpg' | asset | url }}" role="presentation"/>
+    </p>
+    <p>This site is a bit more of a placeholder than anything else, for now.</p>
+    <p><a href="/about/">About</a> is an effort towards an explanation.</p>
+  </div>
+  <div id="right-panel" class="ga-content2-side"></div>
+
+  <footer class="site-footer ga-foot-main"></div>
+
+
+  <div class="sidebar-grid-area">
+    {% block sidebar %}
+      {% include 'partials/_layoutHome/sidebar.njk' %}
+    {% endblock sidebar %}
+  </div>
+
+
+  {% include 'partials/bottom.njk' %}
+{% endblock themeBody %}

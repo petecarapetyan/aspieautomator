@@ -1,3 +1,4 @@
-# Yada
-
-Welcome
+---
+title: aspie automator
+layout: layout-home
+---
