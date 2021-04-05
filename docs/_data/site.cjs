@@ -2,8 +2,8 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'aspie automator',
-    description: 'Aspie Automator uses the not-alphabet theme for rocket',
+    name: 'Aspie Automator',
+    description: 'not-alphabet is a customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
         name: 'GitHub',
