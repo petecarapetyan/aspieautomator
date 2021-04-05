@@ -1,24 +1,9 @@
-#right-panel {
-  background: white url(/_merged_assets/_static/images/yulia-matvienko-FR5RL5kI5T8-unsplash_.jpg);
-  background-size: cover;
-}
-.content-grid-area {
-  background-color: white;
-}
-
-.ga-content-main {
-  display: grid;
-  align-content: center;
-  justify-content: center;
-}
-
 #main-header.header-grid-area {
   display: flex;
   justify-content: space-between;
   align-items: center;
   min-height: 30px;
   margin: 0px 5px;
-  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .sidebar-grid-area {
@@ -27,6 +12,7 @@
 
 .content-grid-area {
   background-color: white;
+  padding: 0px 5px;
 }
 
 .rocket-content {
@@ -36,7 +22,23 @@
   border: solid black 3px;
   border-radius: 3px;
   font-size: 16px;
-  padding: 5px;
+}
+
+.banner {
+  margin: 10px 10%;
+  border: solid black;
+  background: black url(/_merged_assets/_static/images/alyssa-strohmann-2OlRSRLJPPU-unsplash_.jpg);
+  background-size: cover;
+  color: white;
+  font-size: 60px;
+}
+
+.site-banner {
+  background: black url(/_merged_assets/_static/images/alyssa-strohmann-2OlRSRLJPPU-unsplash_.jpg);
+  background-size: cover;
+  color: white;
+  font-size: 30px;
+  border: none;
 }
 
 .theme-able {
@@ -55,18 +57,25 @@
   background-size: 200px;
 }
 
+.theme-standin {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.blank-header {
+  border-bottom: solid 0.1px;
+  border-top: solid 0.1px;
+}
+
 .theme-able p {
   margin: 0 0 5px 0;
 }
 
 html {
   box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-weight: 300;
-  font-size: 12px;
-  color: var(--black);
-  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
 }
 
 *,
@@ -86,5 +95,26 @@ h4,
 h5,
 h6 {
   margin: 0 0 5px 0;
-  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.teaser-blurb {
+  padding: 10px;  
+  display: grid;
+  text-decoration: none;
+  align-content: start;
+}
+.teaser-thumb {
+  margin: 0px;
+}
+.teaser-title, 
+article a h3 {
+  text-transform: capitalize;
+}
+.teaser-blurb .teaser-content {
+  display: flex;
+}
+.teaser-text {
+  padding-left: 10px;
+  flex: 1;
+  font-size: 10;
 }
