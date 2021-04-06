@@ -63,7 +63,23 @@ Not me. "Gosh, I already know that I can't feel confident, I've been in situatio
 
 It could be a business situation such as "Should i do business with this person?" Or even "How should I write this proposal?" Or it could be personal, such as meeting an old friend at a bar and saying something inappropriate, after not seeing him for a few years.
 
-Over-compensating with automation and computation
+## Recognizing the fearful aspect of autism
+
+Maybe fear is the wrong word, but it generally gets to the point - normal people can correctly sense a feeling of discomfort around autistic people such as myself. I have really good friends that understand me well, but there are others who are not comfortable around me, and for good reason, even if perhaps 'fear' would be a bit over-stated.
+
+The discomfort comes from a sensation that "this guy seems 'off', as if he's scanning or searching for something that I can't identify". May I address this briefly, here?
+
+Context blindness, reviewing again, is like me looking straight at the same situation you are looking at, but I don't see what you see. And of course, I don't know what it is that I don't see, only that I don't see it - because others tell me so, eventually, over the decades. When we're children, we both feel fine, because neither of us knows what the other is not seeing. But it gets weird later, as we both grow up, and I begin attempting to "compensate" in weird and creative ways.
+
+Over a period of time, normal people can become quite aggravated being around people who can't see what they see. "What the heck is wrong with this guy?". But, of course, neither of us really knows, because I can't see what it is that is missing, and now that we are adults, you have no patience for someone who appears to be "not even trying" to fit in.
+
+As you can probably imagine, every situation is very unique and different, as are the people in them. But a common element to these situations, over time, is that I'm going to try to compensate in very creative ways, more out of a feeling of desperation. And you're going to pick up on that feeling, neither of us knowing quite what is going on, just that something doesn't feel right.
+
+Again, if I get the right coaching, at the right time, it's pretty easy to keep things on track, but lots of us don't, so that's when normal people feel the best course of action is to just avoid the guy. Understandable, or in some cases, necessary. Which can feel pretty crummy, so there's a little bit of a feedback loop thing going on there as you sense that I feel crummy about not fitting in.
+
+John Elder Robinson writes a lot about this in his many books on aspie-ness, and it's pretty helpful if you feel you need to get a handle on this type of situation. Bottom line is that fear might be too big a reaction, but knowing what is missing can be helpful.
+
+## Over-compensating with automation and computation
 You would find me trying to over-compensate in every way imagineable, and as a neuro-typical you're exhausted just thinking about it. For me? I don't know any other way, and it doesn't frustrate nearly as much as one more failure does. I'll write automation programs, to help me write automation programs :)
 
 Screwing up social situations? That can be very frustrating. But adding more automation to an already over-compensated situtaion? No problem. What's the metric on ...? Oh wait...
