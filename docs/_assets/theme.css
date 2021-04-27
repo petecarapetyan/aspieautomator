@@ -24,6 +24,7 @@
   display: grid;
   align-content: center;
   justify-content: center;
+  padding: 30px;
 }
 
 body header {
