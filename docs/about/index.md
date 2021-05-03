@@ -102,4 +102,4 @@ Aspie is short for Aspergers, which is a term used for defining "high functionin
 
 ## What's next?
 
-Someday I might blog more on specific situations that neuro-typicals could find amusing.
+Someday I might write more on specific situations that neuro-typicals could find interesting.
