@@ -7,7 +7,7 @@ module.exports = function () {
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/aspieautomator',
+        url: 'https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-alphabet/src/docs/README.md',
       },
       {
         name: 'Twitter',
