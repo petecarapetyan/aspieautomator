@@ -1,6 +1,6 @@
 # aspieAutomator
 
-This repo is a personalized/customized version of [this fins-rocket-theme not-alphabet](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-alphabet/src/docs/README.md) code.
+This repo is a personalized/customized version of [this fins-rocket-theme not-alphabet](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-alphabet/src/docs/) code.
 
 ## For more information on fins-rocket-themes
 
