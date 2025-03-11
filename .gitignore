@@ -4,7 +4,6 @@ docs/_merged_assets/
 docs/_merged_includes/
 _site/
 _site-dev
-deploy.sh
 
 #firebase
 .firebase

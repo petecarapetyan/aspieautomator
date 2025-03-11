@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'Aspie Automator',
-    description: "One person's experiences on autism spectrum",
+    description: "One person's experiences on the autism spectrum",
     socialLinks: [
       {
         name: 'GitHub',
