@@ -2,7 +2,7 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'odetta',
+    name: 'Aspie Automator',
     description: 'not-alphabet is a customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
