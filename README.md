@@ -1,3 +1,3 @@
-# README
+# aspieautomator
 
-based on the not-alphabet theme
+not-alphabet theme

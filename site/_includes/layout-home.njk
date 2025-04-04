@@ -1,0 +1,17 @@
+{% extends 'layout-default.njk' %}
+
+{% block themeBody %}
+  
+
+  <div class="ga-content-main">
+    <p>
+      <img src="{{ 'static/images/grill.jpg' | url }}" role="presentation"/>
+    </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <p>Inventore, sed.</p>
+  </div>
+  <div id="right-panel" class="ga-content2-side"></div>
+
+   {% include '_block/sidebar.njk' %}
+
+{% endblock themeBody %}
